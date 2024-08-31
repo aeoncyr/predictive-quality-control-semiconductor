@@ -1,1 +1,7 @@
-
+Flask==3.0.3
+imbalanced_learn==0.12.3
+joblib==1.4.2
+matplotlib==3.8.4
+pandas==2.2.2
+scikit_learn==1.4.2
+seaborn==0.13.2
