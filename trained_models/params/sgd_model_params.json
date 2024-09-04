@@ -1,0 +1,1 @@
+{"estimator__alpha": 0.01, "estimator__eta0": 0.1, "estimator__learning_rate": "invscaling", "estimator__penalty": "l1"}
