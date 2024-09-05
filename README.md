@@ -130,7 +130,7 @@ The model API will be served locally. To get predictions, use the following exam
 curl -X POST http://localhost:5000/predict -H "Content-Type: application/json" -d data
 ```
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the CC0 1.0 Universal License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
